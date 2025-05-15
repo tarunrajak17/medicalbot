@@ -1,6 +1,7 @@
 #Step1 -> Setup GROQ API KEY
 import os
 
+#testing github commit issue
 GROQ_API_KEY = os.environ.get('GROQ_API_KEY')
 
 #Step2 -> Convert image to required format
